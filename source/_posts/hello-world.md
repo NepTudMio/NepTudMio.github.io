@@ -23,7 +23,7 @@ Please do not forget to enable autostart and upgrade the software in the main wi
 
 ## Android Software Specialized Notes
 
-Please do take look at [this video](https://cloud.189.cn/t/QVbqE3VBJVV3) to properly configure the software.
+Please do take a look at [this video](https://cloud.189.cn/t/QVbqE3VBJVV3) to properly configure the software.
 
 访问码: dmd9
 
