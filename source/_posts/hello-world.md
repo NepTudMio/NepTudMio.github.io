@@ -41,6 +41,6 @@ Please do take a look at [this video](https://cloud.189.cn/t/QVbqE3VBJVV3) to pr
 |Network|ws|
 |Tye|none|
 |Host|www.637883646.xyz|
-|Path|/nepmio/|
+|Path|/nepmio|
 |Tls|tls|
 |AllowInsecure|false|
